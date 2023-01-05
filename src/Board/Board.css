@@ -1,0 +1,48 @@
+.board {
+    outline: 2px solid rgb(134, 154, 189);
+}
+
+.row {
+    height: 35px;
+}
+
+.cell {
+    width: 35px;
+    height: 35px;
+    outline: 1px solid rgb(134, 154, 189);
+    display: inline-block;
+    color: red;
+}
+
+.cell-revealed {
+    width: 35px;
+    height: 35px;
+    outline: 1px solid rgb(134, 154, 189);
+    display: inline-block;
+}
+
+.cell-green {
+    background-color: green;
+}
+
+.cell-red {
+    background-color: red;
+}
+
+.cell-purple {
+    background-color: purple;
+}
+
+.bi-airplane-engines {
+    color: #1275ae;
+}
+
+.customButton {
+    background-color: #282c34;
+    border: none;
+}
+
+.customPlayPause {
+    height: 40px;
+    width: 40px;
+}
