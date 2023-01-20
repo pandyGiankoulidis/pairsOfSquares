@@ -16,6 +16,6 @@ npm start
 ~~~
 After that, go to http://localhost:3000/ in your browser and enjoy playing!
 
-![alt text](https://github.com/pandyGiankoulidis/pairsOfSquares/image.png?raw=true)
+![alt text](image.png)
 
 
