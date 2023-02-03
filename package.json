@@ -1,6 +1,6 @@
 {
   "name": "pairs-of-squares",
-  "version": "16.16.0",
+  "version": "18.14.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
