@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pairsOfSquares/static/css/main.0b02ff01.chunk.css",
+    "main.js": "/pairsOfSquares/static/js/main.054a6339.chunk.js",
+    "main.js.map": "/pairsOfSquares/static/js/main.054a6339.chunk.js.map",
+    "runtime-main.js": "/pairsOfSquares/static/js/runtime-main.dfe7e8a0.js",
+    "runtime-main.js.map": "/pairsOfSquares/static/js/runtime-main.dfe7e8a0.js.map",
+    "static/js/2.3b903b03.chunk.js": "/pairsOfSquares/static/js/2.3b903b03.chunk.js",
+    "static/js/2.3b903b03.chunk.js.map": "/pairsOfSquares/static/js/2.3b903b03.chunk.js.map",
+    "index.html": "/pairsOfSquares/index.html",
+    "static/css/main.0b02ff01.chunk.css.map": "/pairsOfSquares/static/css/main.0b02ff01.chunk.css.map",
+    "static/js/2.3b903b03.chunk.js.LICENSE.txt": "/pairsOfSquares/static/js/2.3b903b03.chunk.js.LICENSE.txt",
+    "static/media/error-1-126514.68bacdfd.mp3": "/pairsOfSquares/static/media/error-1-126514.68bacdfd.mp3",
+    "static/media/interface-124464.b6ba2965.mp3": "/pairsOfSquares/static/media/interface-124464.b6ba2965.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe7e8a0.js",
+    "static/js/2.3b903b03.chunk.js",
+    "static/css/main.0b02ff01.chunk.css",
+    "static/js/main.054a6339.chunk.js"
+  ]
+}
