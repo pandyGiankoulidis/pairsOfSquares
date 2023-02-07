@@ -9,6 +9,7 @@
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.3",
     "create-react-app": "^5.0.1",
+    "gh-pages": "^5.0.0",
     "react": "^17.0.2",
     "react-bootstrap": "^2.7.0",
     "react-bootstrap-icons": "^1.10.2",
@@ -19,9 +20,12 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -40,6 +44,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://pandyGiankoulidis.github.io/pairsOfSquares",
   "main": "index.js",
   "author": "pantelis giankoulidis",
   "license": "ISC",
